@@ -1,0 +1,16 @@
+.sidebar.menu .logo.image,
+.ui.menu .logo.image {
+    width: 35px;
+    margin-right: 1em;
+}
+
+.header-menu {
+    background-color: black;
+    padding-top: 1.5rem !important;
+    padding-bottom: 0.5rem !important;
+}
+
+article section {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
